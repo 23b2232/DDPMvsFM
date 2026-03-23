@@ -1,7 +1,7 @@
 # DDPM vs Flow Matching: A Comparative Study (Research Implementation)
 
 **Associated Research Paper:**  
-[Efficiency vs. Fidelity: A Comparative Analysis of Diffusion Probabilistic Models and Flow Matching on Low-Resource Hardware](https://arxiv.org/pdf/2511.19379)\\
+[Efficiency vs. Fidelity: A Comparative Analysis of Diffusion Probabilistic Models and Flow Matching on Low-Resource Hardware](https://arxiv.org/pdf/2511.19379) <br>
 This repository contains the implementation, experiments, and additional analysis from our research paper.
 
 ## Paper Overview
