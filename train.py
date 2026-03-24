@@ -161,6 +161,8 @@ for epoch in range(EPOCHS):
         if i % 100 == 0:
             print(f"Epoch {epoch} | Step {i} | Loss: {loss.item():.4f}")
             losses.append(loss.item())
+import os
+os.makedirs("models", exist_ok=True)
 
 # Save Model
 torch.save(model.state_dict(), f"models/model_{MODE.lower()}.pth")
